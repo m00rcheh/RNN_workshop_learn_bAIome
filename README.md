@@ -10,10 +10,11 @@ Contents Include:
 
 **Topics:**
 
-● Overview of RNN fundamentals and how they differ from other neural networks\\
-● Key applications of RNNs in biomedical signal processing\\
-● Reservoir computing (RC)\\
-● Hands-on exercises and examples to illustrate RNN implementation and usage\\
+* Overview of RNN fundamentals and how they differ from other neural networks
+* Key applications of RNNs in biomedical signal processing
+* Reservoir computing (RC)
+* Hands-on exercises and examples to illustrate RNN implementation and usage
 
 **Prerequisites:**
+
 A basic understanding of neural networks and machine learning concepts is expected as well as a familiarity with Python and basic programming skills.
