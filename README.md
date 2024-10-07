@@ -18,3 +18,14 @@ Contents Include:
 **Prerequisites:**
 
 A basic understanding of neural networks and machine learning concepts is expected as well as a familiarity with Python and basic programming skills.
+
+**Schedule**
+
+* Day 1: Theoretical foundations of RNNs, including their architecture, key concepts, and differences from other neural networks.
+* Day 2: Hands-on session focused on building custom functions, classes, and modules to implement and extend RNN models.
+* Day 3: Practical exercises and model implementation.
+
+
+**Technical Notes**
+
+We will develop the code either on the Google Colab platform or on the learn_bAIome teaching server. For Google Colab, participants need a Google account. If using the local server, please inform us a few days in advance so we can create an account for you.
