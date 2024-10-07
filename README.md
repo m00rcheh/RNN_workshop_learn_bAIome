@@ -6,6 +6,8 @@ Contents Include:
 * Code Notebooks: Hands-on Python/Jupyter notebooks demonstrating how to implement and train RNNs using popular libraries such as TensorFlow and PyTorch.
 * Datasets: Sample time-series and sequential datasets for building and training RNN models.
 
+Date: 15th, 16th, 17th October 2024, Time: 9:00-12:00 each day
+
 **Course Description:** This workshop is open to students, researchers, and clinicians wanting to learn about recurrent neural networks (RNNs) and their applications in biomedical signal processing. RNNs are vital tools in the field of neural networks, especially known for their capability to manage sequential data. We will explore how RNNs excel at capturing temporal dependencies through their unique recurrent connections, making them highly effective for a variety of tasks. Participants can expect to achieve a solid understanding of the basic principles and architecture of RNNs as well as the ability to identify suitable applications for RNNs and implement basic RNN models. The workshop will be in presence and therefore each participant should bring their own laptop (no ipads).
 
 **Topics:**
