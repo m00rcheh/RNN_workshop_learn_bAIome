@@ -30,4 +30,4 @@ A basic understanding of neural networks and machine learning concepts is expect
 
 **Technical Notes**
 
-We will develop the code either on the Google Colab platform or on the learn_bAIome teaching server. For Google Colab, participants need a Google account. If using the local server, please inform us a few days in advance so we can create an account for you.
+We will develop the code either on the Google Colab platform or on the learn_bAIome teaching server. For Google Colab, participants need a Google account. For using the local server, we have already created accounts for you.
